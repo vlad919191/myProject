@@ -1,0 +1,10 @@
+git status  - zut vor imanas ban poxvela te che
+git add . - sax fayleret qcuma mejy 
+git commit -m "some change" - comentes anum 
+git push origin master - vor faylery poxvac qci github 
+
+
+
+git fetch -     qashum im poxac filery  u qqcuma .git papki mej 
+
+git pull - vor qci uje qo papki mej
