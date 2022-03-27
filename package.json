@@ -1,8 +1,8 @@
 {
   "name": "tasks",
   "version": "0.1.0",
-  "homepage": "https://vlad919191.github.io/myProject/",
   "private": true,
+  "homepage": "https://vlad919191.github.io/myProject/cls",
   "dependencies": {
     "@emotion/react": "^11.8.2",
     "@emotion/styled": "^11.8.1",
@@ -24,7 +24,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "react-scripts build",
+    "predeploy":"react-scripts build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
@@ -32,7 +32,7 @@
       "react-app",
       "react-app/jest"
     ]
-  },
+  }, 
   "browserslist": {
     "production": [
       ">0.2%",
