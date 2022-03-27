@@ -2,7 +2,7 @@
   "name": "tasks",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vlad919191.github.io/myProject/cls",
+  "homepage": "https://vlad919191.github.io/myProject/",
   "dependencies": {
     "@emotion/react": "^11.8.2",
     "@emotion/styled": "^11.8.1",
